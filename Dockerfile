@@ -1,2 +1,2 @@
 FROM nginx
-COPY home/haseeb/app1
+COPY app1 /usr/share/nginx/html
